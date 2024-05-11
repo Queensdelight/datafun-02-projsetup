@@ -1,4 +1,4 @@
-''' This module provides a reusable byline for the author's services. '''
+''' Project 2: This module provides functions for creating a series of project folders. '''
 
 #import independencies
 import pathlib
